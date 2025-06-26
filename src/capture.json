@@ -1,0 +1,764 @@
+{
+  "id": "681172c7901c3e0a2dbdbac4",
+  "jobId": null,
+  "type": null,
+  "location": {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.47828782349824905, 47.547498465491785]
+    },
+    "accuracyMetres": 1.0
+  },
+  "entranceFloor": null,
+  "compassBearing": null,
+  "compassBearingViaOAT": null,
+  "exteriorNotes": "",
+  "noExterior": false,
+  "captureDevice": "",
+  "created": "2025-04-30T00:45:59.486Z",
+  "updated": "2025-04-30T01:29:34.449Z",
+  "lastUpdated": "1970-01-01T00:00:00Z",
+  "site": {
+    "scenes": [
+      {
+        "id": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+        "captureId": "681172c7901c3e0a2dbdbac4",
+        "jobId": "6811758fa8030900013a8fbf",
+        "name": "Reception",
+        "technicianNotes": "",
+        "floorId": "437d6e3a-2999-4373-848d-0fb24f7cca4d",
+        "floorOffset": 0,
+        "floorAbsolute": 0,
+        "stillPhotoGroups": [],
+        "linkedScenes": [],
+        "type": "RECEPTION",
+        "floorType": "FLOOR",
+        "published": true,
+        "added": "2025-04-30T01:11:01.099Z",
+        "addedBy": "auth0|5922c9c4660b8771161e7c7b",
+        "created": "2025-04-30T01:15:55.088Z",
+        "updated": "2025-04-30T01:29:34.433Z",
+        "scans": [
+          {
+            "id": "359d186c-1869-4ac1-98a8-55b13da923c4",
+            "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+            "scanIdentifier": null,
+            "added": "2025-04-30T01:11:39.350Z",
+            "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+            "scanType": "IMAGE_ONLY",
+            "deviceId": null,
+            "blkSerialNumber": "",
+            "blkHardwareVersion": "",
+            "blkFirmwareVersion": "",
+            "vcapVersion": "11.1.2.blk2go",
+            "scanFormat": "THETA_v1",
+            "sessionId": null,
+            "sessionTimestamp": null,
+            "images": [],
+            "irImages": [],
+            "pointCloud": null,
+            "published": false,
+            "manualAlignment": {
+              "rotationRadians": 0.0,
+              "x": -0.0,
+              "y": 0.0,
+              "preview": null
+            },
+            "tilt": null,
+            "elevationScan": false,
+            "notes": "",
+            "scanLinks": [],
+            "scanPoseMatrix": "",
+            "created": "2025-04-30T01:15:55.094Z",
+            "updated": "2025-04-30T01:29:34.438Z"
+          },
+          {
+            "id": "5fa645eb-db2a-44ed-8060-97339f94bbf7",
+            "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+            "scanIdentifier": null,
+            "added": "2025-04-30T01:11:45.894Z",
+            "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+            "scanType": "SCAN_AND_IMAGES",
+            "deviceId": null,
+            "blkSerialNumber": "",
+            "blkHardwareVersion": "",
+            "blkFirmwareVersion": "",
+            "vcapVersion": "11.1.2.blk2go",
+            "scanFormat": "BLK360_v2",
+            "sessionId": null,
+            "sessionTimestamp": null,
+            "images": [
+              {
+                "id": "2",
+                "scanId": "5fa645eb-db2a-44ed-8060-97339f94bbf7",
+                "added": "2025-04-30T02:29:38.727+01:00",
+                "index": 1,
+                "projections": null,
+                "transformations": null,
+                "irTempMax": null,
+                "irTempMin": null,
+                "exposure": null,
+                "mediaReference": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_01_imagepanorama.jpg",
+                  "bucket": "pupil-raw-staging"
+                }
+              }
+            ],
+            "irImages": [],
+            "pointCloud": {
+              "path": "681172c7901c3e0a2dbdbac4/sample_scan_01.zip",
+              "bucket": "pupil-raw-staging"
+            },
+            "published": true,
+            "manualAlignment": {
+              "rotationRadians": 0.0,
+              "x": -0.0,
+              "y": 0.0,
+              "preview": null
+            },
+            "tilt": null,
+            "elevationScan": false,
+            "notes": "",
+            "scanLinks": [],
+            "scanPoseMatrix": "[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1]",
+            "created": "2025-04-30T01:15:55.094Z",
+            "updated": "2025-04-30T01:29:34.438Z"
+          },
+          {
+            "id": "a318a1d2-6c06-483c-a092-9022d015e44e",
+            "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+            "scanIdentifier": null,
+            "added": "2025-04-30T01:12:27.331Z",
+            "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+            "scanType": "SCAN_AND_IMAGES",
+            "deviceId": null,
+            "blkSerialNumber": "",
+            "blkHardwareVersion": "",
+            "blkFirmwareVersion": "",
+            "vcapVersion": "11.1.2.blk2go",
+            "scanFormat": "BLK360_v2",
+            "sessionId": null,
+            "sessionTimestamp": null,
+            "images": [
+              {
+                "id": "3",
+                "scanId": "a318a1d2-6c06-483c-a092-9022d015e44e",
+                "added": "2025-04-30T02:29:38.730+01:00",
+                "index": 1,
+                "projections": null,
+                "transformations": null,
+                "irTempMax": null,
+                "irTempMin": null,
+                "exposure": null,
+                "mediaReference": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_02_imagepanorama.jpg",
+                  "bucket": "pupil-raw-staging"
+                }
+              }
+            ],
+            "irImages": [],
+            "pointCloud": {
+              "path": "681172c7901c3e0a2dbdbac4/sample_scan_02.zip",
+              "bucket": "pupil-raw-staging"
+            },
+            "published": true,
+            "manualAlignment": {
+              "rotationRadians": 0.0,
+              "x": -0.0,
+              "y": 0.0,
+              "preview": null
+            },
+            "tilt": null,
+            "elevationScan": false,
+            "notes": "",
+            "scanLinks": [],
+            "scanPoseMatrix": "[0.8913903530280319,-0.452661225834525,-0.022826588762782818,0,0.45291434018321713,0.891524820293124,0.007217704462910077,0,0.017083295494751786,-0.016772281517375653,0.9997133847197113,0,-1.4796608867728656,-1.4276562333233078,0.04402563155655824,1]",
+            "created": "2025-04-30T01:15:55.094Z",
+            "updated": "2025-04-30T01:29:34.438Z"
+          },
+          {
+            "id": "ca1c1938-54ce-423b-91bd-aeb98294601d",
+            "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+            "scanIdentifier": null,
+            "added": "2025-04-30T01:12:45.654Z",
+            "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+            "scanType": "SCAN_AND_IMAGES",
+            "deviceId": null,
+            "blkSerialNumber": "",
+            "blkHardwareVersion": "",
+            "blkFirmwareVersion": "",
+            "vcapVersion": "11.1.2.blk2go",
+            "scanFormat": "BLK360_v2",
+            "sessionId": null,
+            "sessionTimestamp": null,
+            "images": [
+              {
+                "id": "4",
+                "scanId": "ca1c1938-54ce-423b-91bd-aeb98294601d",
+                "added": "2025-04-30T02:29:38.732+01:00",
+                "index": 1,
+                "projections": null,
+                "transformations": null,
+                "irTempMax": null,
+                "irTempMin": null,
+                "exposure": null,
+                "mediaReference": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_03_imagepanorama.jpg",
+                  "bucket": "pupil-raw-staging"
+                }
+              }
+            ],
+            "irImages": [],
+            "pointCloud": {
+              "path": "681172c7901c3e0a2dbdbac4/sample_scan_03.zip",
+              "bucket": "pupil-raw-staging"
+            },
+            "published": true,
+            "manualAlignment": {
+              "rotationRadians": 0.0,
+              "x": -0.0,
+              "y": 0.0,
+              "preview": null
+            },
+            "tilt": null,
+            "elevationScan": false,
+            "notes": "",
+            "scanLinks": [],
+            "scanPoseMatrix": "[0.9177539925525301,0.3968889490332897,-0.014379544121481236,0,-0.39654086164832575,0.9177505261343583,0.022120506850260784,0,0.02197621889894482,-0.014599106663070674,0.9996518953553517,0,-1.809440315791976,-3.2930238128122933,0.052251653557072064,1]",
+            "created": "2025-04-30T01:15:55.095Z",
+            "updated": "2025-04-30T01:29:34.438Z"
+          },
+          {
+            "id": "a777af6d-3fe2-4329-812b-35b5e00f606f",
+            "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+            "scanIdentifier": null,
+            "added": "2025-04-30T01:13:06.992Z",
+            "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+            "scanType": "SCAN_AND_IMAGES",
+            "deviceId": null,
+            "blkSerialNumber": "",
+            "blkHardwareVersion": "",
+            "blkFirmwareVersion": "",
+            "vcapVersion": "11.1.2.blk2go",
+            "scanFormat": "BLK360_v2",
+            "sessionId": null,
+            "sessionTimestamp": null,
+            "images": [
+              {
+                "id": "5",
+                "scanId": "a777af6d-3fe2-4329-812b-35b5e00f606f",
+                "added": "2025-04-30T02:29:38.734+01:00",
+                "index": 1,
+                "projections": null,
+                "transformations": null,
+                "irTempMax": null,
+                "irTempMin": null,
+                "exposure": null,
+                "mediaReference": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_04_imagepanorama.jpg",
+                  "bucket": "pupil-raw-staging"
+                }
+              }
+            ],
+            "irImages": [],
+            "pointCloud": {
+              "path": "681172c7901c3e0a2dbdbac4/sample_scan_04.zip",
+              "bucket": "pupil-raw-staging"
+            },
+            "published": true,
+            "manualAlignment": {
+              "rotationRadians": 0.0,
+              "x": -0.0,
+              "y": 0.0,
+              "preview": null
+            },
+            "tilt": null,
+            "elevationScan": false,
+            "notes": "",
+            "scanLinks": [],
+            "scanPoseMatrix": "[0.25615299040211204,-0.9666112734425396,-0.0069492130379397166,0,0.9666346451216844,0.25615905710971726,0.00001763905341865173,0,0.0017630537515646615,-0.006721868375085238,0.9999758537719887,0,1.2026292346875214,2.5068793083493355,-0.030467162004777296,1]",
+            "created": "2025-04-30T01:15:55.095Z",
+            "updated": "2025-04-30T01:29:34.438Z"
+          },
+          {
+            "id": "97bd39cb-f7af-423c-9c6e-6200108af5a3",
+            "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+            "scanIdentifier": null,
+            "added": "2025-04-30T01:13:26.089Z",
+            "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+            "scanType": "SCAN_AND_IMAGES",
+            "deviceId": null,
+            "blkSerialNumber": "",
+            "blkHardwareVersion": "",
+            "blkFirmwareVersion": "",
+            "vcapVersion": "11.1.2.blk2go",
+            "scanFormat": "BLK360_v2",
+            "sessionId": null,
+            "sessionTimestamp": null,
+            "images": [
+              {
+                "id": "6",
+                "scanId": "97bd39cb-f7af-423c-9c6e-6200108af5a3",
+                "added": "2025-04-30T02:29:38.736+01:00",
+                "index": 1,
+                "projections": null,
+                "transformations": null,
+                "irTempMax": null,
+                "irTempMin": null,
+                "exposure": null,
+                "mediaReference": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_05_imagepanorama.jpg",
+                  "bucket": "pupil-raw-staging"
+                }
+              }
+            ],
+            "irImages": [],
+            "pointCloud": {
+              "path": "681172c7901c3e0a2dbdbac4/sample_scan_05.zip",
+              "bucket": "pupil-raw-staging"
+            },
+            "published": true,
+            "manualAlignment": {
+              "rotationRadians": 0.0,
+              "x": -0.0,
+              "y": 0.0,
+              "preview": null
+            },
+            "tilt": null,
+            "elevationScan": false,
+            "notes": "",
+            "scanLinks": [],
+            "scanPoseMatrix": "[0.14126398171650392,0.989930513497749,-0.009059023991686899,0,-0.9892325683435649,0.14150616921308093,0.037348759056135536,0,0.038254584012817276,0.0036854471535425273,0.9992612292495323,0,2.340354580540771,-2.9217877871259983,-0.033720704631029386,1]",
+            "created": "2025-04-30T01:15:55.095Z",
+            "updated": "2025-04-30T01:29:34.438Z"
+          },
+          {
+            "id": "2e47d764-71df-47f4-aece-e73f88ea0c51",
+            "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+            "scanIdentifier": null,
+            "added": "2025-04-30T01:13:46.534Z",
+            "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+            "scanType": "SCAN_AND_IMAGES",
+            "deviceId": null,
+            "blkSerialNumber": "",
+            "blkHardwareVersion": "",
+            "blkFirmwareVersion": "",
+            "vcapVersion": "11.1.2.blk2go",
+            "scanFormat": "BLK360_v2",
+            "sessionId": null,
+            "sessionTimestamp": null,
+            "images": [
+              {
+                "id": "7",
+                "scanId": "2e47d764-71df-47f4-aece-e73f88ea0c51",
+                "added": "2025-04-30T02:29:38.738+01:00",
+                "index": 1,
+                "projections": null,
+                "transformations": null,
+                "irTempMax": null,
+                "irTempMin": null,
+                "exposure": null,
+                "mediaReference": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_06_imagepanorama.jpg",
+                  "bucket": "pupil-raw-staging"
+                }
+              }
+            ],
+            "irImages": [],
+            "pointCloud": {
+              "path": "681172c7901c3e0a2dbdbac4/sample_scan_06.zip",
+              "bucket": "pupil-raw-staging"
+            },
+            "published": true,
+            "manualAlignment": {
+              "rotationRadians": 0.0,
+              "x": -0.0,
+              "y": 0.0,
+              "preview": null
+            },
+            "tilt": null,
+            "elevationScan": false,
+            "notes": "",
+            "scanLinks": [],
+            "scanPoseMatrix": "[-0.9915449173668536,0.129558821092419,0.007293059790066447,0,-0.1293930789752065,-0.9913944582540601,0.019860998375048625,0,0.00980346659477693,0.018749400531224637,0.9997761509570258,0,6.478800528087523,2.7376511726379644,-0.1399538045198136,1]",
+            "created": "2025-04-30T01:15:55.095Z",
+            "updated": "2025-04-30T01:29:34.438Z"
+          }
+        ],
+        "photoNotes": [],
+        "outline": "",
+        "features": [],
+        "communal": false,
+        "noLinks": false,
+        "noStills": true,
+        "noNote": false,
+        "noPhotospheres": false,
+        "noPointClouds": false
+      }
+    ],
+    "b2gScans": [],
+    "sections": [
+      {
+        "id": "437d6e3a-2999-4373-848d-0fb24f7cca4d",
+        "captureId": "681172c7901c3e0a2dbdbac4",
+        "jobId": "6811758fa8030900013a8fbf",
+        "floorNum": 0,
+        "label": "0 Ground",
+        "type": "FLOOR",
+        "published": true,
+        "addedBy": "auth0|5922c9c4660b8771161e7c7b",
+        "scans": [],
+        "scenes": [
+          {
+            "id": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+            "captureId": "681172c7901c3e0a2dbdbac4",
+            "jobId": "6811758fa8030900013a8fbf",
+            "name": "Reception",
+            "technicianNotes": "",
+            "floorId": "437d6e3a-2999-4373-848d-0fb24f7cca4d",
+            "floorOffset": 0,
+            "floorAbsolute": 0,
+            "stillPhotoGroups": [],
+            "linkedScenes": [],
+            "type": "RECEPTION",
+            "floorType": "FLOOR",
+            "published": true,
+            "added": "2025-04-30T01:11:01.099Z",
+            "addedBy": "auth0|5922c9c4660b8771161e7c7b",
+            "created": "2025-04-30T01:15:55.088Z",
+            "updated": "2025-04-30T01:29:34.433Z",
+            "scans": [
+              {
+                "id": "5fa645eb-db2a-44ed-8060-97339f94bbf7",
+                "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+                "scanIdentifier": null,
+                "added": "2025-04-30T01:11:45.894Z",
+                "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+                "scanType": "SCAN_AND_IMAGES",
+                "deviceId": null,
+                "blkSerialNumber": "",
+                "blkHardwareVersion": "",
+                "blkFirmwareVersion": "",
+                "vcapVersion": "11.1.2.blk2go",
+                "scanFormat": "BLK360_v2",
+                "sessionId": null,
+                "sessionTimestamp": null,
+                "images": [
+                  {
+                    "id": "2",
+                    "scanId": "5fa645eb-db2a-44ed-8060-97339f94bbf7",
+                    "added": "2025-04-30T02:29:38.727+01:00",
+                    "index": 1,
+                    "projections": null,
+                    "transformations": null,
+                    "irTempMax": null,
+                    "irTempMin": null,
+                    "exposure": null,
+                    "mediaReference": {
+                      "path": "681172c7901c3e0a2dbdbac4/sample_scan_01_imagepanorama.jpg",
+                      "bucket": "pupil-raw-staging"
+                    }
+                  }
+                ],
+                "irImages": [],
+                "pointCloud": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_01.zip",
+                  "bucket": "pupil-raw-staging"
+                },
+                "published": true,
+                "manualAlignment": {
+                  "rotationRadians": 0.0,
+                  "x": -0.0,
+                  "y": 0.0,
+                  "preview": null
+                },
+                "tilt": null,
+                "elevationScan": false,
+                "notes": "",
+                "scanLinks": [],
+                "scanPoseMatrix": "[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1]",
+                "created": "2025-04-30T01:15:55.094Z",
+                "updated": "2025-04-30T01:29:34.438Z"
+              },
+              {
+                "id": "a318a1d2-6c06-483c-a092-9022d015e44e",
+                "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+                "scanIdentifier": null,
+                "added": "2025-04-30T01:12:27.331Z",
+                "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+                "scanType": "SCAN_AND_IMAGES",
+                "deviceId": null,
+                "blkSerialNumber": "",
+                "blkHardwareVersion": "",
+                "blkFirmwareVersion": "",
+                "vcapVersion": "11.1.2.blk2go",
+                "scanFormat": "BLK360_v2",
+                "sessionId": null,
+                "sessionTimestamp": null,
+                "images": [
+                  {
+                    "id": "3",
+                    "scanId": "a318a1d2-6c06-483c-a092-9022d015e44e",
+                    "added": "2025-04-30T02:29:38.730+01:00",
+                    "index": 1,
+                    "projections": null,
+                    "transformations": null,
+                    "irTempMax": null,
+                    "irTempMin": null,
+                    "exposure": null,
+                    "mediaReference": {
+                      "path": "681172c7901c3e0a2dbdbac4/sample_scan_02_imagepanorama.jpg",
+                      "bucket": "pupil-raw-staging"
+                    }
+                  }
+                ],
+                "irImages": [],
+                "pointCloud": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_02.zip",
+                  "bucket": "pupil-raw-staging"
+                },
+                "published": true,
+                "manualAlignment": {
+                  "rotationRadians": 0.0,
+                  "x": -0.0,
+                  "y": 0.0,
+                  "preview": null
+                },
+                "tilt": null,
+                "elevationScan": false,
+                "notes": "",
+                "scanLinks": [],
+                "scanPoseMatrix": "[0.8913903530280319,-0.452661225834525,-0.022826588762782818,0,0.45291434018321713,0.891524820293124,0.007217704462910077,0,0.017083295494751786,-0.016772281517375653,0.9997133847197113,0,-1.4796608867728656,-1.4276562333233078,0.04402563155655824,1]",
+                "created": "2025-04-30T01:15:55.094Z",
+                "updated": "2025-04-30T01:29:34.438Z"
+              },
+              {
+                "id": "ca1c1938-54ce-423b-91bd-aeb98294601d",
+                "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+                "scanIdentifier": null,
+                "added": "2025-04-30T01:12:45.654Z",
+                "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+                "scanType": "SCAN_AND_IMAGES",
+                "deviceId": null,
+                "blkSerialNumber": "",
+                "blkHardwareVersion": "",
+                "blkFirmwareVersion": "",
+                "vcapVersion": "11.1.2.blk2go",
+                "scanFormat": "BLK360_v2",
+                "sessionId": null,
+                "sessionTimestamp": null,
+                "images": [
+                  {
+                    "id": "4",
+                    "scanId": "ca1c1938-54ce-423b-91bd-aeb98294601d",
+                    "added": "2025-04-30T02:29:38.732+01:00",
+                    "index": 1,
+                    "projections": null,
+                    "transformations": null,
+                    "irTempMax": null,
+                    "irTempMin": null,
+                    "exposure": null,
+                    "mediaReference": {
+                      "path": "681172c7901c3e0a2dbdbac4/sample_scan_03_imagepanorama.jpg",
+                      "bucket": "pupil-raw-staging"
+                    }
+                  }
+                ],
+                "irImages": [],
+                "pointCloud": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_03.zip",
+                  "bucket": "pupil-raw-staging"
+                },
+                "published": true,
+                "manualAlignment": {
+                  "rotationRadians": 0.0,
+                  "x": -0.0,
+                  "y": 0.0,
+                  "preview": null
+                },
+                "tilt": null,
+                "elevationScan": false,
+                "notes": "",
+                "scanLinks": [],
+                "scanPoseMatrix": "[0.9177539925525301,0.3968889490332897,-0.014379544121481236,0,-0.39654086164832575,0.9177505261343583,0.022120506850260784,0,0.02197621889894482,-0.014599106663070674,0.9996518953553517,0,-1.809440315791976,-3.2930238128122933,0.052251653557072064,1]",
+                "created": "2025-04-30T01:15:55.095Z",
+                "updated": "2025-04-30T01:29:34.438Z"
+              },
+              {
+                "id": "a777af6d-3fe2-4329-812b-35b5e00f606f",
+                "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+                "scanIdentifier": null,
+                "added": "2025-04-30T01:13:06.992Z",
+                "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+                "scanType": "SCAN_AND_IMAGES",
+                "deviceId": null,
+                "blkSerialNumber": "",
+                "blkHardwareVersion": "",
+                "blkFirmwareVersion": "",
+                "vcapVersion": "11.1.2.blk2go",
+                "scanFormat": "BLK360_v2",
+                "sessionId": null,
+                "sessionTimestamp": null,
+                "images": [
+                  {
+                    "id": "5",
+                    "scanId": "a777af6d-3fe2-4329-812b-35b5e00f606f",
+                    "added": "2025-04-30T02:29:38.734+01:00",
+                    "index": 1,
+                    "projections": null,
+                    "transformations": null,
+                    "irTempMax": null,
+                    "irTempMin": null,
+                    "exposure": null,
+                    "mediaReference": {
+                      "path": "681172c7901c3e0a2dbdbac4/sample_scan_04_imagepanorama.jpg",
+                      "bucket": "pupil-raw-staging"
+                    }
+                  }
+                ],
+                "irImages": [],
+                "pointCloud": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_04.zip",
+                  "bucket": "pupil-raw-staging"
+                },
+                "published": true,
+                "manualAlignment": {
+                  "rotationRadians": 0.0,
+                  "x": -0.0,
+                  "y": 0.0,
+                  "preview": null
+                },
+                "tilt": null,
+                "elevationScan": false,
+                "notes": "",
+                "scanLinks": [],
+                "scanPoseMatrix": "[0.25615299040211204,-0.9666112734425396,-0.0069492130379397166,0,0.9666346451216844,0.25615905710971726,0.00001763905341865173,0,0.0017630537515646615,-0.006721868375085238,0.9999758537719887,0,1.2026292346875214,2.5068793083493355,-0.030467162004777296,1]",
+                "created": "2025-04-30T01:15:55.095Z",
+                "updated": "2025-04-30T01:29:34.438Z"
+              },
+              {
+                "id": "97bd39cb-f7af-423c-9c6e-6200108af5a3",
+                "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+                "scanIdentifier": null,
+                "added": "2025-04-30T01:13:26.089Z",
+                "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+                "scanType": "SCAN_AND_IMAGES",
+                "deviceId": null,
+                "blkSerialNumber": "",
+                "blkHardwareVersion": "",
+                "blkFirmwareVersion": "",
+                "vcapVersion": "11.1.2.blk2go",
+                "scanFormat": "BLK360_v2",
+                "sessionId": null,
+                "sessionTimestamp": null,
+                "images": [
+                  {
+                    "id": "6",
+                    "scanId": "97bd39cb-f7af-423c-9c6e-6200108af5a3",
+                    "added": "2025-04-30T02:29:38.736+01:00",
+                    "index": 1,
+                    "projections": null,
+                    "transformations": null,
+                    "irTempMax": null,
+                    "irTempMin": null,
+                    "exposure": null,
+                    "mediaReference": {
+                      "path": "681172c7901c3e0a2dbdbac4/sample_scan_05_imagepanorama.jpg",
+                      "bucket": "pupil-raw-staging"
+                    }
+                  }
+                ],
+                "irImages": [],
+                "pointCloud": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_05.zip",
+                  "bucket": "pupil-raw-staging"
+                },
+                "published": true,
+                "manualAlignment": {
+                  "rotationRadians": 0.0,
+                  "x": -0.0,
+                  "y": 0.0,
+                  "preview": null
+                },
+                "tilt": null,
+                "elevationScan": false,
+                "notes": "",
+                "scanLinks": [],
+                "scanPoseMatrix": "[0.14126398171650392,0.989930513497749,-0.009059023991686899,0,-0.9892325683435649,0.14150616921308093,0.037348759056135536,0,0.038254584012817276,0.0036854471535425273,0.9992612292495323,0,2.340354580540771,-2.9217877871259983,-0.033720704631029386,1]",
+                "created": "2025-04-30T01:15:55.095Z",
+                "updated": "2025-04-30T01:29:34.438Z"
+              },
+              {
+                "id": "2e47d764-71df-47f4-aece-e73f88ea0c51",
+                "sceneId": "da3370d7-9859-4196-b74d-dc75fd35b65b",
+                "scanIdentifier": null,
+                "added": "2025-04-30T01:13:46.534Z",
+                "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+                "scanType": "SCAN_AND_IMAGES",
+                "deviceId": null,
+                "blkSerialNumber": "",
+                "blkHardwareVersion": "",
+                "blkFirmwareVersion": "",
+                "vcapVersion": "11.1.2.blk2go",
+                "scanFormat": "BLK360_v2",
+                "sessionId": null,
+                "sessionTimestamp": null,
+                "images": [
+                  {
+                    "id": "7",
+                    "scanId": "2e47d764-71df-47f4-aece-e73f88ea0c51",
+                    "added": "2025-04-30T02:29:38.738+01:00",
+                    "index": 1,
+                    "projections": null,
+                    "transformations": null,
+                    "irTempMax": null,
+                    "irTempMin": null,
+                    "exposure": null,
+                    "mediaReference": {
+                      "path": "681172c7901c3e0a2dbdbac4/sample_scan_06_imagepanorama.jpg",
+                      "bucket": "pupil-raw-staging"
+                    }
+                  }
+                ],
+                "irImages": [],
+                "pointCloud": {
+                  "path": "681172c7901c3e0a2dbdbac4/sample_scan_06.zip",
+                  "bucket": "pupil-raw-staging"
+                },
+                "published": true,
+                "manualAlignment": {
+                  "rotationRadians": 0.0,
+                  "x": -0.0,
+                  "y": 0.0,
+                  "preview": null
+                },
+                "tilt": null,
+                "elevationScan": false,
+                "notes": "",
+                "scanLinks": [],
+                "scanPoseMatrix": "[-0.9915449173668536,0.129558821092419,0.007293059790066447,0,-0.1293930789752065,-0.9913944582540601,0.019860998375048625,0,0.00980346659477693,0.018749400531224637,0.9997761509570258,0,6.478800528087523,2.7376511726379644,-0.1399538045198136,1]",
+                "created": "2025-04-30T01:15:55.095Z",
+                "updated": "2025-04-30T01:29:34.438Z"
+              }
+            ],
+            "photoNotes": [],
+            "outline": "",
+            "features": [],
+            "communal": false,
+            "noLinks": false,
+            "noStills": true,
+            "noNote": false,
+            "noPhotospheres": false,
+            "noPointClouds": false
+          }
+        ],
+        "isDarkroomRegistrationRequired": null,
+        "isManualRegistrationRequired": false,
+        "registeredScanLocation": { "path": "", "bucket": "" },
+        "meshingConfig": { "createMesh": false },
+        "blkProjFile": { "path": "", "bucket": "" },
+        "scanLinks": []
+      }
+    ]
+  }
+}

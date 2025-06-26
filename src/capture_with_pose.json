@@ -1,0 +1,315 @@
+{
+  "id": "68306e00cff97a0a5c6ecccb",
+  "jobId": null,
+  "type": null,
+  "location": {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.9016647934913634, 51.891988625452264]
+    },
+    "accuracyMetres": 1.0
+  },
+  "entranceFloor": null,
+  "compassBearing": null,
+  "compassBearingViaOAT": null,
+  "exteriorNotes": "",
+  "noExterior": false,
+  "captureDevice": "",
+  "created": "2025-05-23T12:45:52.499Z",
+  "updated": "2025-05-27T05:55:55.131Z",
+  "lastUpdated": "1970-01-01T00:00:00Z",
+  "site": {
+    "scenes": [
+      {
+        "id": "5f932742-6c15-4576-963c-af4342bbe19a",
+        "captureId": "68306e00cff97a0a5c6ecccb",
+        "jobId": "68306e1d36ec640001c21b69",
+        "name": "Reception",
+        "technicianNotes": "",
+        "floorId": "cf9e625e-c358-493f-bfa2-f5bec2075c06",
+        "floorOffset": 0,
+        "floorAbsolute": 0,
+        "stillPhotoGroups": [],
+        "linkedScenes": [],
+        "type": "RECEPTION",
+        "floorType": "FLOOR",
+        "published": true,
+        "added": "2025-05-26T16:27:49.746Z",
+        "addedBy": "auth0|5922c9c4660b8771161e7c7b",
+        "created": "2025-05-26T16:38:48.620Z",
+        "updated": "2025-05-27T05:55:55.116Z",
+        "scans": [
+          {
+            "id": "940bdeb9-6a2b-4bfd-915b-1f6d3b916467",
+            "sceneId": "5f932742-6c15-4576-963c-af4342bbe19a",
+            "scanIdentifier": null,
+            "added": "2025-05-26T16:29:58.669Z",
+            "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+            "scanType": "SCAN_AND_IMAGES",
+            "deviceId": null,
+            "blkSerialNumber": "",
+            "blkHardwareVersion": "",
+            "blkFirmwareVersion": "",
+            "vcapVersion": "11.1.2.blk2go",
+            "scanFormat": "BLK360_v2",
+            "sessionId": null,
+            "sessionTimestamp": null,
+            "images": [
+              {
+                "id": "1",
+                "scanId": "940bdeb9-6a2b-4bfd-915b-1f6d3b916467",
+                "added": "2025-05-27T06:55:55.118+01:00",
+                "index": 1,
+                "projections": null,
+                "transformations": null,
+                "irTempMax": null,
+                "irTempMin": null,
+                "exposure": null,
+                "mediaReference": {
+                  "path": "68306e00cff97a0a5c6ecccb/92image.jpg",
+                  "bucket": "pupil-raw-staging"
+                }
+              }
+            ],
+            "irImages": [],
+            "pointCloud": {
+              "path": "68306e00cff97a0a5c6ecccb/92scan.zip",
+              "bucket": "pupil-raw-staging"
+            },
+            "published": true,
+            "manualAlignment": {
+              "rotationRadians": 0.0,
+              "x": -0.0,
+              "y": 0.0,
+              "preview": null
+            },
+            "tilt": null,
+            "elevationScan": false,
+            "notes": "",
+            "scanLinks": [],
+            "scanPoseMatrix": "[-0.85777736,-0.51402134,-2.2468587E-8,0.0,0.0,-4.371139E-8,1.0,0.0,-0.51402134,0.85777736,3.749464E-8,0.0,-4.106477,2.5864878,0.0,1.0]",
+            "created": "2025-05-26T16:38:48.629Z",
+            "updated": "2025-05-27T05:55:55.121Z"
+          },
+          {
+            "id": "ffa54aff-1439-4a8c-8433-ed623fbf2ed3",
+            "sceneId": "5f932742-6c15-4576-963c-af4342bbe19a",
+            "scanIdentifier": null,
+            "added": "2025-05-26T16:30:26.545Z",
+            "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+            "scanType": "SCAN_AND_IMAGES",
+            "deviceId": null,
+            "blkSerialNumber": "",
+            "blkHardwareVersion": "",
+            "blkFirmwareVersion": "",
+            "vcapVersion": "11.1.2.blk2go",
+            "scanFormat": "BLK360_v2",
+            "sessionId": null,
+            "sessionTimestamp": null,
+            "images": [
+              {
+                "id": "2",
+                "scanId": "ffa54aff-1439-4a8c-8433-ed623fbf2ed3",
+                "added": "2025-05-27T06:55:55.121+01:00",
+                "index": 1,
+                "projections": null,
+                "transformations": null,
+                "irTempMax": null,
+                "irTempMin": null,
+                "exposure": null,
+                "mediaReference": {
+                  "path": "68306e00cff97a0a5c6ecccb/b2image.jpg",
+                  "bucket": "pupil-raw-staging"
+                }
+              }
+            ],
+            "irImages": [],
+            "pointCloud": {
+              "path": "68306e00cff97a0a5c6ecccb/b2scan.zip",
+              "bucket": "pupil-raw-staging"
+            },
+            "published": true,
+            "manualAlignment": {
+              "rotationRadians": 0.0,
+              "x": -0.0,
+              "y": 0.0,
+              "preview": null
+            },
+            "tilt": null,
+            "elevationScan": false,
+            "notes": "",
+            "scanLinks": [],
+            "scanPoseMatrix": "[1.0,0.0,0.0,0.0,0.0,-4.371139E-8,1.0,0.0,0.0,-1.0,-4.371139E-8,0.0,0.0,0.0,0.0,1.0]",
+            "created": "2025-05-26T16:38:48.632Z",
+            "updated": "2025-05-27T05:55:55.121Z"
+          }
+        ],
+        "photoNotes": [],
+        "outline": "",
+        "features": [],
+        "communal": false,
+        "noLinks": false,
+        "noStills": true,
+        "noNote": false,
+        "noPhotospheres": false,
+        "noPointClouds": false
+      }
+    ],
+    "b2gScans": [],
+    "sections": [
+      {
+        "id": "cf9e625e-c358-493f-bfa2-f5bec2075c06",
+        "captureId": "68306e00cff97a0a5c6ecccb",
+        "jobId": "68306e1d36ec640001c21b69",
+        "floorNum": 0,
+        "label": "0 Ground",
+        "type": "FLOOR",
+        "published": true,
+        "addedBy": "auth0|5922c9c4660b8771161e7c7b",
+        "scans": [],
+        "scenes": [
+          {
+            "id": "5f932742-6c15-4576-963c-af4342bbe19a",
+            "captureId": "68306e00cff97a0a5c6ecccb",
+            "jobId": "68306e1d36ec640001c21b69",
+            "name": "Reception",
+            "technicianNotes": "",
+            "floorId": "cf9e625e-c358-493f-bfa2-f5bec2075c06",
+            "floorOffset": 0,
+            "floorAbsolute": 0,
+            "stillPhotoGroups": [],
+            "linkedScenes": [],
+            "type": "RECEPTION",
+            "floorType": "FLOOR",
+            "published": true,
+            "added": "2025-05-26T16:27:49.746Z",
+            "addedBy": "auth0|5922c9c4660b8771161e7c7b",
+            "created": "2025-05-26T16:38:48.620Z",
+            "updated": "2025-05-27T05:55:55.116Z",
+            "scans": [
+              {
+                "id": "940bdeb9-6a2b-4bfd-915b-1f6d3b916467",
+                "sceneId": "5f932742-6c15-4576-963c-af4342bbe19a",
+                "scanIdentifier": null,
+                "added": "2025-05-26T16:29:58.669Z",
+                "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+                "scanType": "SCAN_AND_IMAGES",
+                "deviceId": null,
+                "blkSerialNumber": "",
+                "blkHardwareVersion": "",
+                "blkFirmwareVersion": "",
+                "vcapVersion": "11.1.2.blk2go",
+                "scanFormat": "BLK360_v2",
+                "sessionId": null,
+                "sessionTimestamp": null,
+                "images": [
+                  {
+                    "id": "1",
+                    "scanId": "940bdeb9-6a2b-4bfd-915b-1f6d3b916467",
+                    "added": "2025-05-27T06:55:55.118+01:00",
+                    "index": 1,
+                    "projections": null,
+                    "transformations": null,
+                    "irTempMax": null,
+                    "irTempMin": null,
+                    "exposure": null,
+                    "mediaReference": {
+                      "path": "68306e00cff97a0a5c6ecccb/92image.jpg",
+                      "bucket": "pupil-raw-staging"
+                    }
+                  }
+                ],
+                "irImages": [],
+                "pointCloud": {
+                  "path": "68306e00cff97a0a5c6ecccb/92scan.zip",
+                  "bucket": "pupil-raw-staging"
+                },
+                "published": true,
+                "manualAlignment": {
+                  "rotationRadians": 0.0,
+                  "x": -0.0,
+                  "y": 0.0,
+                  "preview": null
+                },
+                "tilt": null,
+                "elevationScan": false,
+                "notes": "",
+                "scanLinks": [],
+                "scanPoseMatrix": "[-0.85777736,-0.51402134,-2.2468587E-8,0.0,0.0,-4.371139E-8,1.0,0.0,-0.51402134,0.85777736,3.749464E-8,0.0,-4.106477,2.5864878,0.0,1.0]",
+                "created": "2025-05-26T16:38:48.629Z",
+                "updated": "2025-05-27T05:55:55.121Z"
+              },
+              {
+                "id": "ffa54aff-1439-4a8c-8433-ed623fbf2ed3",
+                "sceneId": "5f932742-6c15-4576-963c-af4342bbe19a",
+                "scanIdentifier": null,
+                "added": "2025-05-26T16:30:26.545Z",
+                "technicianId": "auth0|5922c9c4660b8771161e7c7b",
+                "scanType": "SCAN_AND_IMAGES",
+                "deviceId": null,
+                "blkSerialNumber": "",
+                "blkHardwareVersion": "",
+                "blkFirmwareVersion": "",
+                "vcapVersion": "11.1.2.blk2go",
+                "scanFormat": "BLK360_v2",
+                "sessionId": null,
+                "sessionTimestamp": null,
+                "images": [
+                  {
+                    "id": "2",
+                    "scanId": "ffa54aff-1439-4a8c-8433-ed623fbf2ed3",
+                    "added": "2025-05-27T06:55:55.121+01:00",
+                    "index": 1,
+                    "projections": null,
+                    "transformations": null,
+                    "irTempMax": null,
+                    "irTempMin": null,
+                    "exposure": null,
+                    "mediaReference": {
+                      "path": "68306e00cff97a0a5c6ecccb/b2image.jpg",
+                      "bucket": "pupil-raw-staging"
+                    }
+                  }
+                ],
+                "irImages": [],
+                "pointCloud": {
+                  "path": "68306e00cff97a0a5c6ecccb/b2scan.zip",
+                  "bucket": "pupil-raw-staging"
+                },
+                "published": true,
+                "manualAlignment": {
+                  "rotationRadians": 0.0,
+                  "x": -0.0,
+                  "y": 0.0,
+                  "preview": null
+                },
+                "tilt": null,
+                "elevationScan": false,
+                "notes": "",
+                "scanLinks": [],
+                "scanPoseMatrix": "[1.0,0.0,0.0,0.0,0.0,-4.371139E-8,1.0,0.0,0.0,-1.0,-4.371139E-8,0.0,0.0,0.0,0.0,1.0]",
+                "created": "2025-05-26T16:38:48.632Z",
+                "updated": "2025-05-27T05:55:55.121Z"
+              }
+            ],
+            "photoNotes": [],
+            "outline": "",
+            "features": [],
+            "communal": false,
+            "noLinks": false,
+            "noStills": true,
+            "noNote": false,
+            "noPhotospheres": false,
+            "noPointClouds": false
+          }
+        ],
+        "isDarkroomRegistrationRequired": null,
+        "isManualRegistrationRequired": false,
+        "registeredScanLocation": { "path": "", "bucket": "" },
+        "meshingConfig": { "createMesh": false },
+        "blkProjFile": { "path": "", "bucket": "" },
+        "scanLinks": []
+      }
+    ]
+  }
+}

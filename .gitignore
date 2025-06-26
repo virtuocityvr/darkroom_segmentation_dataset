@@ -1,0 +1,21 @@
+
+.idea/
+
+.vscode/
+
+api_cache/
+
+src/__pycache__/
+
+*.pyc
+
+sections/
+
+downloaded_ply_files/
+
+density_images/
+
+density_images copy/
+/data/
+
+.DS_Store

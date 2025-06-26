@@ -1,0 +1,3373 @@
+{
+  "annotation_events": {
+    "metadata": {
+      "floorplan_id": 1036992,
+      "section_id": "floor2_section2",
+      "start_time": "2024-03-21T10:00:00",
+      "end_time": "2024-03-21T10:18:05.690557",
+      "total_events": 291,
+      "total_scenes": 10,
+      "total_shapes": 15
+    },
+    "events": [
+      {
+        "timestamp": "2024-03-21T10:00:00",
+        "event_type": "tool_switch",
+        "tool": "scene_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:00:00",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.0932,
+          "y": 8.1895
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:02.094501",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.0829,
+          "y": 7.0198
+        },
+        "click_number": 2,
+        "time_since_last_click": 2.0945014013395165,
+        "time_since_start": 2.094501,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:03.408079",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.9019,
+          "y": 7.5169
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.3135782417208755,
+        "time_since_start": 3.408079,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:05.883560",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.905,
+          "y": 10.8996
+        },
+        "click_number": 4,
+        "time_since_last_click": 2.4754810430058445,
+        "time_since_start": 5.88356,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:07.303006",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.9231,
+          "y": 14.5371
+        },
+        "click_number": 5,
+        "time_since_last_click": 1.4194462351052688,
+        "time_since_start": 7.303006,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:08.658674",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.341,
+          "y": 14.5154
+        },
+        "click_number": 6,
+        "time_since_last_click": 1.3556678985044117,
+        "time_since_start": 8.658674,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:10.790680",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.3228,
+          "y": 12.9524
+        },
+        "click_number": 7,
+        "time_since_last_click": 2.132005646902754,
+        "time_since_start": 10.79068,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:12.206189",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -1.964,
+          "y": 12.9681
+        },
+        "click_number": 8,
+        "time_since_last_click": 1.4155089182850775,
+        "time_since_start": 12.206189,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:13.708829",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -1.9685,
+          "y": 9.8393
+        },
+        "click_number": 9,
+        "time_since_last_click": 1.5026396717767447,
+        "time_since_start": 13.708829,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:16.118137",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.091,
+          "y": 9.8395
+        },
+        "click_number": 10,
+        "time_since_last_click": 2.4093083720838404,
+        "time_since_start": 16.118137,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:17.918083",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.0932,
+          "y": 8.1895
+        },
+        "click_number": 11,
+        "time_since_last_click": 1.7999458425672068,
+        "time_since_start": 17.918083,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:00:20.861284",
+        "event_type": "type_assignment",
+        "polygon_id": 797756,
+        "annotation_type": "scene",
+        "room_type": "HALL",
+        "time_since_polygon_completion": 2.943200502839752,
+        "total_points": 11,
+        "total_drawing_time": 20.861284
+      },
+      {
+        "timestamp": "2024-03-21T10:00:38.556241",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 17.69495680100226
+      },
+      {
+        "timestamp": "2024-03-21T10:00:38.556241",
+        "event_type": "tool_switch",
+        "tool": "scene_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:00:38.556241",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.4185,
+          "y": 14.535
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:39.699539",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.8416,
+          "y": 14.5308
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.1432982565780496,
+        "time_since_start": 1.143298,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:41.584351",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.8382,
+          "y": 12.7509
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.8848122471476403,
+        "time_since_start": 3.02811,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:43.914940",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.4743,
+          "y": 12.7698
+        },
+        "click_number": 4,
+        "time_since_last_click": 2.3305887747904617,
+        "time_since_start": 5.358699,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:44.800914",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.4797,
+          "y": 11.9739
+        },
+        "click_number": 5,
+        "time_since_last_click": 0.8859741697408567,
+        "time_since_start": 6.244673,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:46.989571",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.2855,
+          "y": 11.9927
+        },
+        "click_number": 6,
+        "time_since_last_click": 2.188656761690632,
+        "time_since_start": 8.43333,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:49.361840",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.2779,
+          "y": 13.1327
+        },
+        "click_number": 7,
+        "time_since_last_click": 2.3722694729262943,
+        "time_since_start": 10.805599,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:50.171549",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.3941,
+          "y": 13.1335
+        },
+        "click_number": 8,
+        "time_since_last_click": 0.8097087278409497,
+        "time_since_start": 11.615308,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:51.258288",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.4116,
+          "y": 14.5406
+        },
+        "click_number": 9,
+        "time_since_last_click": 1.0867388397724511,
+        "time_since_start": 12.702047,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:00:53.140996",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.4185,
+          "y": 14.535
+        },
+        "click_number": 10,
+        "time_since_last_click": 1.8827077531333762,
+        "time_since_start": 14.584755,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:00:55.976512",
+        "event_type": "type_assignment",
+        "polygon_id": 797757,
+        "annotation_type": "scene",
+        "room_type": "BEDROOM",
+        "time_since_polygon_completion": 2.8355162348739995,
+        "total_points": 10,
+        "total_drawing_time": 17.420271
+      },
+      {
+        "timestamp": "2024-03-21T10:01:12.792209",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 16.815697232696937
+      },
+      {
+        "timestamp": "2024-03-21T10:01:12.792209",
+        "event_type": "tool_switch",
+        "tool": "scene_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:01:12.792209",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.3566,
+          "y": 12.6595
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:16.185539",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.8509,
+          "y": 12.6471
+        },
+        "click_number": 2,
+        "time_since_last_click": 3.3933303907546577,
+        "time_since_start": 3.39333,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:18.255737",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.8598,
+          "y": 12.0819
+        },
+        "click_number": 3,
+        "time_since_last_click": 2.070198209785736,
+        "time_since_start": 5.463528,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:20.499325",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.8123,
+          "y": 12.0811
+        },
+        "click_number": 4,
+        "time_since_last_click": 2.243588257776633,
+        "time_since_start": 7.707116,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:21.657172",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.7987,
+          "y": 10.7264
+        },
+        "click_number": 5,
+        "time_since_last_click": 1.1578472239567423,
+        "time_since_start": 8.864963,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:24.619278",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.4878,
+          "y": 10.7494
+        },
+        "click_number": 6,
+        "time_since_last_click": 2.9621056705588034,
+        "time_since_start": 11.827069,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:26.219178",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.4893,
+          "y": 9.2253
+        },
+        "click_number": 7,
+        "time_since_last_click": 1.5998997629776341,
+        "time_since_start": 13.426969,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:28.674580",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.3156,
+          "y": 9.2506
+        },
+        "click_number": 8,
+        "time_since_last_click": 2.455402188259314,
+        "time_since_start": 15.882371,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:30.172806",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.3118,
+          "y": 9.6789
+        },
+        "click_number": 9,
+        "time_since_last_click": 1.498225691218587,
+        "time_since_start": 17.380597,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:31.482842",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.4343,
+          "y": 9.68
+        },
+        "click_number": 10,
+        "time_since_last_click": 1.3100358554338913,
+        "time_since_start": 18.690633,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:33.084125",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.4152,
+          "y": 11.8196
+        },
+        "click_number": 11,
+        "time_since_last_click": 1.601283382552337,
+        "time_since_start": 20.291916,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:34.776695",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.278,
+          "y": 11.8174
+        },
+        "click_number": 12,
+        "time_since_last_click": 1.692570181155613,
+        "time_since_start": 21.984486,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:37.268305",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.2768,
+          "y": 11.8948
+        },
+        "click_number": 13,
+        "time_since_last_click": 2.4916102859469387,
+        "time_since_start": 24.476096,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:40.495616",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.3834,
+          "y": 11.8622
+        },
+        "click_number": 14,
+        "time_since_last_click": 3.2273111549312152,
+        "time_since_start": 27.703407,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:42.891676",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.3824,
+          "y": 11.9954
+        },
+        "click_number": 15,
+        "time_since_last_click": 2.3960597076710455,
+        "time_since_start": 30.099467,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:44.209407",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.3485,
+          "y": 11.9958
+        },
+        "click_number": 16,
+        "time_since_last_click": 1.3177312163287291,
+        "time_since_start": 31.417198,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:01:48.998238",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.3566,
+          "y": 12.6595
+        },
+        "click_number": 17,
+        "time_since_last_click": 4.788830627730649,
+        "time_since_start": 36.206029,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:01:52.010506",
+        "event_type": "type_assignment",
+        "polygon_id": 797758,
+        "annotation_type": "scene",
+        "room_type": "BEDROOM",
+        "time_since_polygon_completion": 3.012267595994829,
+        "total_points": 17,
+        "total_drawing_time": 39.218297
+      },
+      {
+        "timestamp": "2024-03-21T10:02:16.336220",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 24.32571444499381
+      },
+      {
+        "timestamp": "2024-03-21T10:02:16.336220",
+        "event_type": "tool_switch",
+        "tool": "scene_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:02:16.336220",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.0322,
+          "y": 12.1094
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:18.055335",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -4.0422,
+          "y": 12.1294
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.7191148329218473,
+        "time_since_start": 1.719115,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:19.959743",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -4.0521,
+          "y": 9.9276
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.9044079303798336,
+        "time_since_start": 3.623523,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:22.787017",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.0522,
+          "y": 9.9094
+        },
+        "click_number": 4,
+        "time_since_last_click": 2.82727396914576,
+        "time_since_start": 6.450797,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:24.459773",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.0322,
+          "y": 12.1094
+        },
+        "click_number": 5,
+        "time_since_last_click": 1.6727562769816773,
+        "time_since_start": 8.123553,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:02:30.050576",
+        "event_type": "type_assignment",
+        "polygon_id": 797759,
+        "annotation_type": "scene",
+        "room_type": "BATHROOM",
+        "time_since_polygon_completion": 5.590802991290774,
+        "total_points": 5,
+        "total_drawing_time": 13.714356
+      },
+      {
+        "timestamp": "2024-03-21T10:02:39.112123",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 9.061547133450338
+      },
+      {
+        "timestamp": "2024-03-21T10:02:39.112123",
+        "event_type": "tool_switch",
+        "tool": "scene_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:02:39.112123",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 2.6672,
+          "y": 9.1347
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:40.818433",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.8251,
+          "y": 9.1265
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.7063099816621086,
+        "time_since_start": 1.70631,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:41.669230",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.8133,
+          "y": 7.9658
+        },
+        "click_number": 3,
+        "time_since_last_click": 0.8507969660562297,
+        "time_since_start": 2.557107,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:43.003309",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.8249,
+          "y": 5.3883
+        },
+        "click_number": 4,
+        "time_since_last_click": 1.3340785873138907,
+        "time_since_start": 3.891186,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:44.164535",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 2.063,
+          "y": 5.6344
+        },
+        "click_number": 5,
+        "time_since_last_click": 1.1612261676061748,
+        "time_since_start": 5.052412,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:45.585671",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 2.1632,
+          "y": 5.5376
+        },
+        "click_number": 6,
+        "time_since_last_click": 1.4211357863119845,
+        "time_since_start": 6.473548,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:46.497530",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 3.0903,
+          "y": 6.5129
+        },
+        "click_number": 7,
+        "time_since_last_click": 0.911859444297818,
+        "time_since_start": 7.385407,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:50.703493",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 3.0061,
+          "y": 6.5965
+        },
+        "click_number": 8,
+        "time_since_last_click": 4.20596321690894,
+        "time_since_start": 11.59137,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:51.813609",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.1888,
+          "y": 7.7876
+        },
+        "click_number": 9,
+        "time_since_last_click": 1.1101160336624223,
+        "time_since_start": 12.701486,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:53.399286",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.1916,
+          "y": 8.6201
+        },
+        "click_number": 10,
+        "time_since_last_click": 1.5856770989436009,
+        "time_since_start": 14.287163,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:55.863086",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.2943,
+          "y": 8.6174
+        },
+        "click_number": 11,
+        "time_since_last_click": 2.4637995010326463,
+        "time_since_start": 16.750963,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:56.854915",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.3079,
+          "y": 9.1386
+        },
+        "click_number": 12,
+        "time_since_last_click": 0.9918285649594736,
+        "time_since_start": 17.742792,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:02:58.796404",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 2.6672,
+          "y": 9.1347
+        },
+        "click_number": 13,
+        "time_since_last_click": 1.941489003853475,
+        "time_since_start": 19.684281,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:03:06.300590",
+        "event_type": "type_assignment",
+        "polygon_id": 797760,
+        "annotation_type": "scene",
+        "room_type": "BEDROOM",
+        "time_since_polygon_completion": 7.504186098343602,
+        "total_points": 13,
+        "total_drawing_time": 27.188467
+      },
+      {
+        "timestamp": "2024-03-21T10:03:55.261110",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 48.960519775322794
+      },
+      {
+        "timestamp": "2024-03-21T10:03:55.261110",
+        "event_type": "tool_switch",
+        "tool": "scene_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:03:55.261110",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.3778,
+          "y": 10.6894
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:03:57.432706",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.8322,
+          "y": 10.6494
+        },
+        "click_number": 2,
+        "time_since_last_click": 2.1715961399548815,
+        "time_since_start": 2.171596,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:03:59.334943",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.8222,
+          "y": 9.1994
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.9022370544601068,
+        "time_since_start": 4.073833,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:00.564375",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.3878,
+          "y": 9.2194
+        },
+        "click_number": 4,
+        "time_since_last_click": 1.2294318338641772,
+        "time_since_start": 5.303265,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:05.019892",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.3778,
+          "y": 10.6894
+        },
+        "click_number": 5,
+        "time_since_last_click": 4.455516785673949,
+        "time_since_start": 9.758782,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:04:10.388709",
+        "event_type": "type_assignment",
+        "polygon_id": 797761,
+        "annotation_type": "scene",
+        "room_type": "EN_SUITE",
+        "time_since_polygon_completion": 5.368816815935752,
+        "total_points": 5,
+        "total_drawing_time": 15.127599
+      },
+      {
+        "timestamp": "2024-03-21T10:04:38.001667",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 27.612958120218916
+      },
+      {
+        "timestamp": "2024-03-21T10:04:38.001667",
+        "event_type": "tool_switch",
+        "tool": "scene_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:04:38.001667",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.9267,
+          "y": 7.5162
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:39.669204",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.0829,
+          "y": 7.0198
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.6675371454622785,
+        "time_since_start": 1.667537,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:41.745130",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.1642,
+          "y": 7.0146
+        },
+        "click_number": 3,
+        "time_since_last_click": 2.0759261615588698,
+        "time_since_start": 3.743463,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:43.510077",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.1683,
+          "y": 8.4763
+        },
+        "click_number": 4,
+        "time_since_last_click": 1.7649474629889133,
+        "time_since_start": 5.50841,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:45.304206",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.8969,
+          "y": 8.4742
+        },
+        "click_number": 5,
+        "time_since_last_click": 1.7941293905977866,
+        "time_since_start": 7.302539,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:47.587894",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -4.973,
+          "y": 8.4684
+        },
+        "click_number": 6,
+        "time_since_last_click": 2.2836876436316746,
+        "time_since_start": 9.586227,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:50.047798",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -4.9563,
+          "y": 4.9102
+        },
+        "click_number": 7,
+        "time_since_last_click": 2.4599035307605286,
+        "time_since_start": 12.046131,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:51.537896",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.8969,
+          "y": 3.8338
+        },
+        "click_number": 8,
+        "time_since_last_click": 1.4900975730092312,
+        "time_since_start": 13.536229,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:52.956972",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.9487,
+          "y": 3.7828
+        },
+        "click_number": 9,
+        "time_since_last_click": 1.4190763734763103,
+        "time_since_start": 14.955305,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:56.259751",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.5857,
+          "y": 3.4219
+        },
+        "click_number": 10,
+        "time_since_last_click": 3.3027794075807146,
+        "time_since_start": 18.258084,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:57.340828",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.3683,
+          "y": 3.2057
+        },
+        "click_number": 11,
+        "time_since_last_click": 1.0810774846010587,
+        "time_since_start": 19.339161,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:58.474482",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.2237,
+          "y": 3.0718
+        },
+        "click_number": 12,
+        "time_since_last_click": 1.1336540291454378,
+        "time_since_start": 20.472815,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:04:59.839599",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.9563,
+          "y": 2.8467
+        },
+        "click_number": 13,
+        "time_since_last_click": 1.3651173899359326,
+        "time_since_start": 21.837932,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:02.960127",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.0257,
+          "y": 2.7707
+        },
+        "click_number": 14,
+        "time_since_last_click": 3.1205277657808392,
+        "time_since_start": 24.95846,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:06.517258",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -1.8234,
+          "y": 1.686
+        },
+        "click_number": 15,
+        "time_since_last_click": 3.557131250275495,
+        "time_since_start": 28.515591,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:07.888825",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -1.2855,
+          "y": 2.28
+        },
+        "click_number": 16,
+        "time_since_last_click": 1.3715668292831373,
+        "time_since_start": 29.887158,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:09.729678",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -1.1737,
+          "y": 2.175
+        },
+        "click_number": 17,
+        "time_since_last_click": 1.8408534938631878,
+        "time_since_start": 31.728011,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:10.813855",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.2526,
+          "y": 3.1568
+        },
+        "click_number": 18,
+        "time_since_last_click": 1.0841773242408879,
+        "time_since_start": 32.812188,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:11.813406",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.3355,
+          "y": 3.2256
+        },
+        "click_number": 19,
+        "time_since_last_click": 0.9995510521619314,
+        "time_since_start": 33.811739,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:12.956175",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 0.5341,
+          "y": 4.1139
+        },
+        "click_number": 20,
+        "time_since_last_click": 1.1427692070794955,
+        "time_since_start": 34.954508,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:16.520360",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 0.6213,
+          "y": 4.0385
+        },
+        "click_number": 21,
+        "time_since_last_click": 3.5641848623660355,
+        "time_since_start": 38.518693,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:18.980162",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.2419,
+          "y": 4.6786
+        },
+        "click_number": 22,
+        "time_since_last_click": 2.4598020830726446,
+        "time_since_start": 40.978495,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:20.797376",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.1721,
+          "y": 4.7462
+        },
+        "click_number": 23,
+        "time_since_last_click": 1.8172143848564122,
+        "time_since_start": 42.795709,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:22.597185",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.5314,
+          "y": 5.1036
+        },
+        "click_number": 24,
+        "time_since_last_click": 1.7998087848295907,
+        "time_since_start": 44.595518,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:24.379857",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.7167,
+          "y": 5.2919
+        },
+        "click_number": 25,
+        "time_since_last_click": 1.782671709356203,
+        "time_since_start": 46.37819,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:25.206127",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.1593,
+          "y": 5.8351
+        },
+        "click_number": 26,
+        "time_since_last_click": 0.82626977267586,
+        "time_since_start": 47.20446,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:27.131086",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 0.2578,
+          "y": 6.7302
+        },
+        "click_number": 27,
+        "time_since_last_click": 1.9249593677737837,
+        "time_since_start": 49.129419,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:28.717687",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 0.0975,
+          "y": 6.5336
+        },
+        "click_number": 28,
+        "time_since_last_click": 1.5866011335655883,
+        "time_since_start": 50.71602,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:05:30.630537",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.9267,
+          "y": 7.5162
+        },
+        "click_number": 29,
+        "time_since_last_click": 1.9128504518705567,
+        "time_since_start": 52.62887,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:05:36.978357",
+        "event_type": "type_assignment",
+        "polygon_id": 797762,
+        "annotation_type": "scene",
+        "room_type": "KITCHEN_RECEPTION",
+        "time_since_polygon_completion": 6.347820375486208,
+        "total_points": 29,
+        "total_drawing_time": 58.97669
+      },
+      {
+        "timestamp": "2024-03-21T10:06:05.373753",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 28.395395752533283
+      },
+      {
+        "timestamp": "2024-03-21T10:06:05.373753",
+        "event_type": "tool_switch",
+        "tool": "scene_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:06:05.373753",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.6698,
+          "y": -0.7722
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:07.149616",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -5.9795,
+          "y": -3.0898
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.77586332096099,
+        "time_since_start": 1.775863,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:08.448262",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -4.2204,
+          "y": -4.8428
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.2986457636134021,
+        "time_since_start": 3.074509,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:11.634898",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 0.0518,
+          "y": -0.556
+        },
+        "click_number": 4,
+        "time_since_last_click": 3.1866360660259114,
+        "time_since_start": 6.261145,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:16.419748",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.8704,
+          "y": 1.2513
+        },
+        "click_number": 5,
+        "time_since_last_click": 4.784850300866612,
+        "time_since_start": 11.045995,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:18.891440",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 7.2443,
+          "y": 6.7168
+        },
+        "click_number": 6,
+        "time_since_last_click": 2.4716919220106446,
+        "time_since_start": 13.517687,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:20.424437",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 7.2302,
+          "y": 14.5339
+        },
+        "click_number": 7,
+        "time_since_last_click": 1.5329971918787955,
+        "time_since_start": 15.050684,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:22.863800",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.4839,
+          "y": 14.5289
+        },
+        "click_number": 8,
+        "time_since_last_click": 2.4393632520399153,
+        "time_since_start": 17.490047,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:24.233144",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.4864,
+          "y": 13.1524
+        },
+        "click_number": 9,
+        "time_since_last_click": 1.36934449107026,
+        "time_since_start": 18.859391,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:26.160247",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.7204,
+          "y": 13.1528
+        },
+        "click_number": 10,
+        "time_since_last_click": 1.9271029270334188,
+        "time_since_start": 20.786494,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:27.966673",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.7261,
+          "y": 11.8278
+        },
+        "click_number": 11,
+        "time_since_last_click": 1.8064262802472475,
+        "time_since_start": 22.59292,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:28.777957",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.5231,
+          "y": 11.8269
+        },
+        "click_number": 12,
+        "time_since_last_click": 0.8112838747408319,
+        "time_since_start": 23.404204,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:32.021154",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.5075,
+          "y": 9.6754
+        },
+        "click_number": 13,
+        "time_since_last_click": 3.243196584368744,
+        "time_since_start": 26.647401,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:33.489689",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.5239,
+          "y": 9.6753
+        },
+        "click_number": 14,
+        "time_since_last_click": 1.468535412326606,
+        "time_since_start": 28.115936,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:35.230986",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.7354,
+          "y": 9.6738
+        },
+        "click_number": 15,
+        "time_since_last_click": 1.7412973205834508,
+        "time_since_start": 29.857233,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:36.777820",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 4.7437,
+          "y": 7.7495
+        },
+        "click_number": 16,
+        "time_since_last_click": 1.546833794742894,
+        "time_since_start": 31.404067,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:38.916970",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 3.3061,
+          "y": 6.2988
+        },
+        "click_number": 17,
+        "time_since_last_click": 2.1391500833220753,
+        "time_since_start": 33.543217,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:42.867547",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 3.1356,
+          "y": 6.4493
+        },
+        "click_number": 18,
+        "time_since_last_click": 3.950577186604634,
+        "time_since_start": 37.493794,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:43.935446",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 2.1907,
+          "y": 5.4988
+        },
+        "click_number": 19,
+        "time_since_last_click": 1.0678994563039252,
+        "time_since_start": 38.561693,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:45.537603",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 2.3599,
+          "y": 5.344
+        },
+        "click_number": 20,
+        "time_since_last_click": 1.6021570074197002,
+        "time_since_start": 40.16385,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:47.108937",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.4841,
+          "y": 4.4602
+        },
+        "click_number": 21,
+        "time_since_last_click": 1.5713343879503827,
+        "time_since_start": 41.735184,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:48.357069",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 1.3079,
+          "y": 4.614
+        },
+        "click_number": 22,
+        "time_since_last_click": 1.2481321240381134,
+        "time_since_start": 42.983316,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:50.899250",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 0.6857,
+          "y": 3.9694
+        },
+        "click_number": 23,
+        "time_since_last_click": 2.5421805995221964,
+        "time_since_start": 45.525497,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:54.619634",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": 0.834,
+          "y": 3.8262
+        },
+        "click_number": 24,
+        "time_since_last_click": 3.720383998170615,
+        "time_since_start": 49.245881,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:55.820086",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.0216,
+          "y": 2.9397
+        },
+        "click_number": 25,
+        "time_since_last_click": 1.2004515422292124,
+        "time_since_start": 50.446333,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:06:56.698685",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.1908,
+          "y": 3.103
+        },
+        "click_number": 26,
+        "time_since_last_click": 0.8785991696644382,
+        "time_since_start": 51.324932,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:07:01.289246",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -1.1425,
+          "y": 2.1317
+        },
+        "click_number": 27,
+        "time_since_last_click": 4.590561482892957,
+        "time_since_start": 55.915493,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:07:03.295421",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -0.9864,
+          "y": 1.9832
+        },
+        "click_number": 28,
+        "time_since_last_click": 2.0061746975624697,
+        "time_since_start": 57.921668,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:07:05.650675",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -1.8178,
+          "y": 1.1096
+        },
+        "click_number": 29,
+        "time_since_last_click": 2.3552542582632956,
+        "time_since_start": 60.276922,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:07:06.646232",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -4.2458,
+          "y": 3.4876
+        },
+        "click_number": 30,
+        "time_since_last_click": 0.9955574916119762,
+        "time_since_start": 61.272479,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:07:10.735197",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -4.2353,
+          "y": -0.1783
+        },
+        "click_number": 31,
+        "time_since_last_click": 4.088964546735777,
+        "time_since_start": 65.361444,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:07:13.116093",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.6698,
+          "y": -0.7722
+        },
+        "click_number": 32,
+        "time_since_last_click": 2.380895708943922,
+        "time_since_start": 67.74234,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:07:17.823774",
+        "event_type": "type_assignment",
+        "polygon_id": 797763,
+        "annotation_type": "scene",
+        "room_type": "TERRACE",
+        "time_since_polygon_completion": 4.707681122596389,
+        "total_points": 32,
+        "total_drawing_time": 72.450021
+      },
+      {
+        "timestamp": "2024-03-21T10:08:01.220502",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 43.396727619654634
+      },
+      {
+        "timestamp": "2024-03-21T10:08:01.220502",
+        "event_type": "tool_switch",
+        "tool": "scene_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:08:01.220502",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.3092,
+          "y": 12.2141
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:08:03.587448",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.3092,
+          "y": 12.6444
+        },
+        "click_number": 2,
+        "time_since_last_click": 2.3669459631901026,
+        "time_since_start": 2.366946,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:08:05.648213",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.2546,
+          "y": 12.6515
+        },
+        "click_number": 3,
+        "time_since_last_click": 2.060765298702113,
+        "time_since_start": 4.427711,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:08:09.495829",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.2562,
+          "y": 12.8779
+        },
+        "click_number": 4,
+        "time_since_last_click": 3.8476157551868573,
+        "time_since_start": 8.275327,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:08:10.468914",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.02,
+          "y": 12.8779
+        },
+        "click_number": 5,
+        "time_since_last_click": 0.9730849088700855,
+        "time_since_start": 9.248412,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:08:12.684610",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.02,
+          "y": 12.2141
+        },
+        "click_number": 6,
+        "time_since_last_click": 2.215695971620189,
+        "time_since_start": 11.464108,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:08:14.801957",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -3.3092,
+          "y": 12.2141
+        },
+        "click_number": 7,
+        "time_since_last_click": 2.1173469682142243,
+        "time_since_start": 13.581455,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:08:16.863699",
+        "event_type": "type_assignment",
+        "polygon_id": 797764,
+        "annotation_type": "scene",
+        "room_type": "STORAGE_RESIDENTIAL",
+        "time_since_polygon_completion": 2.061741594442384,
+        "total_points": 7,
+        "total_drawing_time": 15.643197
+      },
+      {
+        "timestamp": "2024-03-21T10:08:45.781426",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 28.91772670218441
+      },
+      {
+        "timestamp": "2024-03-21T10:08:45.781426",
+        "event_type": "tool_switch",
+        "tool": "scene_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:08:45.781426",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -5.0379,
+          "y": 8.8333
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:08:47.894774",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -5.0441,
+          "y": 9.8275
+        },
+        "click_number": 2,
+        "time_since_last_click": 2.11334830073438,
+        "time_since_start": 2.113348,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:08:49.216567",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.1838,
+          "y": 9.8273
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.3217925295297133,
+        "time_since_start": 3.435141,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:08:51.271781",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -2.1839,
+          "y": 8.5604
+        },
+        "click_number": 4,
+        "time_since_last_click": 2.0552141575889693,
+        "time_since_start": 5.490355,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:08:53.445514",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -5.0362,
+          "y": 8.5515
+        },
+        "click_number": 5,
+        "time_since_last_click": 2.1737329798635274,
+        "time_since_start": 7.664088,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:08:55.619556",
+        "event_type": "polygon_click",
+        "annotation_type": "scene",
+        "point": {
+          "x": -5.0379,
+          "y": 8.8333
+        },
+        "click_number": 6,
+        "time_since_last_click": 2.1740420957669926,
+        "time_since_start": 9.83813,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:09:00.191023",
+        "event_type": "type_assignment",
+        "polygon_id": 797765,
+        "annotation_type": "scene",
+        "room_type": "STORAGE_RESIDENTIAL",
+        "time_since_polygon_completion": 4.571466712583298,
+        "total_points": 6,
+        "total_drawing_time": 14.409597
+      },
+      {
+        "timestamp": "2024-03-21T10:09:25.637183",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 25.446160346139138
+      },
+      {
+        "timestamp": "2024-03-21T10:09:25.637183",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:09:25.637183",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.0707,
+          "y": 12.7583
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:09:27.637493",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.1675,
+          "y": 12.7591
+        },
+        "click_number": 2,
+        "time_since_last_click": 2.000309876559199,
+        "time_since_start": 2.00031,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:09:29.198777",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.1701,
+          "y": 13.3059
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.561283942965979,
+        "time_since_start": 3.561594,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:09:32.949328",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 1.3536,
+          "y": 13.3085
+        },
+        "click_number": 4,
+        "time_since_last_click": 3.7505507206360185,
+        "time_since_start": 7.312145,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:09:34.793815",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 1.3638,
+          "y": 12.7689
+        },
+        "click_number": 5,
+        "time_since_last_click": 1.8444868608518914,
+        "time_since_start": 9.156632,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:09:35.639730",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 1.4743,
+          "y": 12.7698
+        },
+        "click_number": 6,
+        "time_since_last_click": 0.8459152251076749,
+        "time_since_start": 10.002547,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:09:36.799346",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 1.463,
+          "y": 13.4561
+        },
+        "click_number": 7,
+        "time_since_last_click": 1.1596159510934878,
+        "time_since_start": 11.162163,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:09:38.282085",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.0652,
+          "y": 13.4408
+        },
+        "click_number": 8,
+        "time_since_last_click": 1.4827391671941794,
+        "time_since_start": 12.644902,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:09:40.496807",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.0707,
+          "y": 12.7583
+        },
+        "click_number": 9,
+        "time_since_last_click": 2.2147219506033604,
+        "time_since_start": 14.859624,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:09:44.237523",
+        "event_type": "type_assignment",
+        "polygon_id": 1,
+        "annotation_type": "shape",
+        "shape_type": "INTERNAL_WALL_STRUCTURAL",
+        "time_since_polygon_completion": 3.7407162535545164,
+        "total_points": 9,
+        "total_drawing_time": 18.60034
+      },
+      {
+        "timestamp": "2024-03-21T10:10:01.639378",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 17.40185504367439
+      },
+      {
+        "timestamp": "2024-03-21T10:10:01.639378",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:10:01.639378",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -0.8114,
+          "y": 11.9979
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:10:03.170533",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 1.3485,
+          "y": 11.9958
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.5311547709951114,
+        "time_since_start": 1.531155,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:10:05.202049",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 1.3497,
+          "y": 12.097
+        },
+        "click_number": 3,
+        "time_since_last_click": 2.0315159443479285,
+        "time_since_start": 3.562671,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:10:07.687166",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -0.8123,
+          "y": 12.0811
+        },
+        "click_number": 4,
+        "time_since_last_click": 2.485117277464704,
+        "time_since_start": 6.047788,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:10:09.263681",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -0.8114,
+          "y": 11.9979
+        },
+        "click_number": 5,
+        "time_since_last_click": 1.5765149428427434,
+        "time_since_start": 7.624303,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:10:14.856637",
+        "event_type": "type_assignment",
+        "polygon_id": 2,
+        "annotation_type": "shape",
+        "shape_type": "INTERNAL_WALL_STRUCTURAL",
+        "time_since_polygon_completion": 5.592956311923162,
+        "total_points": 5,
+        "total_drawing_time": 13.217259
+      },
+      {
+        "timestamp": "2024-03-21T10:11:08.447804",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 53.59116717082847
+      },
+      {
+        "timestamp": "2024-03-21T10:11:08.447804",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:11:08.447804",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -2.9019,
+          "y": 7.0167
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:11:10.278515",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -2.9019,
+          "y": 7.1176
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.8307106315043487,
+        "time_since_start": 1.830711,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:11:11.166960",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -2.1645,
+          "y": 7.1175
+        },
+        "click_number": 3,
+        "time_since_last_click": 0.8884446954195071,
+        "time_since_start": 2.719156,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:11:12.943254",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -2.1642,
+          "y": 7.0146
+        },
+        "click_number": 4,
+        "time_since_last_click": 1.776294146351436,
+        "time_since_start": 4.49545,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:11:16.278953",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -2.9019,
+          "y": 7.0167
+        },
+        "click_number": 5,
+        "time_since_last_click": 3.335699201762257,
+        "time_since_start": 7.831149,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:11:18.907407",
+        "event_type": "type_assignment",
+        "polygon_id": 3,
+        "annotation_type": "shape",
+        "shape_type": "INTERNAL_WALL_STRUCTURAL",
+        "time_since_polygon_completion": 2.628453976358664,
+        "total_points": 5,
+        "total_drawing_time": 10.459603
+      },
+      {
+        "timestamp": "2024-03-21T10:11:36.214747",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 17.30733998347562
+      },
+      {
+        "timestamp": "2024-03-21T10:11:36.214747",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:11:36.214747",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -4.104,
+          "y": 4.0442
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:11:37.797913",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -3.6177,
+          "y": 4.5337
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.5831660449292113,
+        "time_since_start": 1.583166,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:11:38.968943",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -3.4051,
+          "y": 4.3286
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.1710301976351927,
+        "time_since_start": 2.754196,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:11:41.370924",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -3.8969,
+          "y": 3.8338
+        },
+        "click_number": 4,
+        "time_since_last_click": 2.401980950052273,
+        "time_since_start": 5.156177,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:11:44.876608",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -4.104,
+          "y": 4.0442
+        },
+        "click_number": 5,
+        "time_since_last_click": 3.5056843834090223,
+        "time_since_start": 8.661861,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:11:50.403983",
+        "event_type": "type_assignment",
+        "polygon_id": 4,
+        "annotation_type": "shape",
+        "shape_type": "PIERS_COLUMNS_PERIMETER",
+        "time_since_polygon_completion": 5.527375244055138,
+        "total_points": 5,
+        "total_drawing_time": 14.189236
+      },
+      {
+        "timestamp": "2024-03-21T10:12:15.263988",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 24.86000516481741
+      },
+      {
+        "timestamp": "2024-03-21T10:12:15.263988",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:12:15.263988",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -1.9165,
+          "y": 1.77
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:12:17.547607",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -1.8234,
+          "y": 1.686
+        },
+        "click_number": 2,
+        "time_since_last_click": 2.2836189204233905,
+        "time_since_start": 2.283619,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:12:19.672258",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -1.4109,
+          "y": 2.1415
+        },
+        "click_number": 3,
+        "time_since_last_click": 2.1246507175576594,
+        "time_since_start": 4.40827,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:12:20.778561",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -1.5047,
+          "y": 2.2264
+        },
+        "click_number": 4,
+        "time_since_last_click": 1.1063030401917846,
+        "time_since_start": 5.514573,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:12:22.793173",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -1.9165,
+          "y": 1.77
+        },
+        "click_number": 5,
+        "time_since_last_click": 2.014611553950828,
+        "time_since_start": 7.529185,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:12:29.163769",
+        "event_type": "type_assignment",
+        "polygon_id": 5,
+        "annotation_type": "shape",
+        "shape_type": "PIERS_COLUMNS_PERIMETER",
+        "time_since_polygon_completion": 6.370596272154208,
+        "total_points": 5,
+        "total_drawing_time": 13.899781
+      },
+      {
+        "timestamp": "2024-03-21T10:12:42.853867",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 13.69009801168583
+      },
+      {
+        "timestamp": "2024-03-21T10:12:42.853867",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:12:42.853867",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 3.7421,
+          "y": 7.3377
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:12:44.748970",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 3.8157,
+          "y": 7.4118
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.8951030891699903,
+        "time_since_start": 1.895103,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:12:45.705349",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 3.6879,
+          "y": 7.5457
+        },
+        "click_number": 3,
+        "time_since_last_click": 0.956378733727682,
+        "time_since_start": 2.851482,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:12:46.615487",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 3.7056,
+          "y": 9.1372
+        },
+        "click_number": 4,
+        "time_since_last_click": 0.9101379854660576,
+        "time_since_start": 3.76162,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:12:49.855055",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 3.6013,
+          "y": 9.1369
+        },
+        "click_number": 5,
+        "time_since_last_click": 3.2395676492284458,
+        "time_since_start": 7.001188,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:12:51.481076",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 3.5778,
+          "y": 7.5006
+        },
+        "click_number": 6,
+        "time_since_last_click": 1.6260212438109756,
+        "time_since_start": 8.627209,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:12:53.962206",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 3.7421,
+          "y": 7.3377
+        },
+        "click_number": 7,
+        "time_since_last_click": 2.4811299630930717,
+        "time_since_start": 11.108339,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:13:01.768531",
+        "event_type": "type_assignment",
+        "polygon_id": 6,
+        "annotation_type": "shape",
+        "shape_type": "INTERNAL_WALL_STRUCTURAL",
+        "time_since_polygon_completion": 7.80632473409136,
+        "total_points": 7,
+        "total_drawing_time": 18.914664
+      },
+      {
+        "timestamp": "2024-03-21T10:13:36.090304",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 34.32177325438814
+      },
+      {
+        "timestamp": "2024-03-21T10:13:36.090304",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:13:36.090304",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -3.7572,
+          "y": 11.424
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:13:38.025552",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -3.7461,
+          "y": 12.1265
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.935247584877757,
+        "time_since_start": 1.935248,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:13:39.316800",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -4.0422,
+          "y": 12.1294
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.291247756696446,
+        "time_since_start": 3.226496,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:13:42.750244",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -4.0454,
+          "y": 11.4222
+        },
+        "click_number": 4,
+        "time_since_last_click": 3.4334435007114257,
+        "time_since_start": 6.65994,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:13:43.597942",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -3.7572,
+          "y": 11.424
+        },
+        "click_number": 5,
+        "time_since_last_click": 0.8476975126553601,
+        "time_since_start": 7.507638,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:13:50.289190",
+        "event_type": "type_assignment",
+        "polygon_id": 7,
+        "annotation_type": "shape",
+        "shape_type": "DUCTING_EXCLUSIVE_SERVICES",
+        "time_since_polygon_completion": 6.691248480824714,
+        "total_points": 5,
+        "total_drawing_time": 14.198886
+      },
+      {
+        "timestamp": "2024-03-21T10:14:11.928125",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 21.638934751897107
+      },
+      {
+        "timestamp": "2024-03-21T10:14:11.928125",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:14:11.928125",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -0.8298,
+          "y": 10.3004
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:14:13.052764",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.0102,
+          "y": 10.3103
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.124639054155003,
+        "time_since_start": 1.124639,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:14:14.170310",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.0097,
+          "y": 10.6646
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.1175455178372842,
+        "time_since_start": 2.242185,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:14:15.282367",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -0.8322,
+          "y": 10.6494
+        },
+        "click_number": 4,
+        "time_since_last_click": 1.1120570177729925,
+        "time_since_start": 3.354242,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:14:16.417773",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -0.8298,
+          "y": 10.3004
+        },
+        "click_number": 5,
+        "time_since_last_click": 1.1354056813867233,
+        "time_since_start": 4.489648,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:14:22.866340",
+        "event_type": "type_assignment",
+        "polygon_id": 8,
+        "annotation_type": "shape",
+        "shape_type": "DUCTING_EXCLUSIVE_SERVICES",
+        "time_since_polygon_completion": 6.44856739014072,
+        "total_points": 5,
+        "total_drawing_time": 10.938215
+      },
+      {
+        "timestamp": "2024-03-21T10:14:55.452992",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 32.586651924089246
+      },
+      {
+        "timestamp": "2024-03-21T10:14:55.452992",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:14:55.452992",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -1.2845,
+          "y": 2.279
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:14:57.009882",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -1.1737,
+          "y": 2.175
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.5568900161837613,
+        "time_since_start": 1.55689,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:14:58.154633",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -0.2526,
+          "y": 3.1568
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.1447506728042809,
+        "time_since_start": 2.701641,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:14:59.698029",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -0.3355,
+          "y": 3.2256
+        },
+        "click_number": 4,
+        "time_since_last_click": 1.5433962881743226,
+        "time_since_start": 4.245037,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:15:01.607824",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -1.2845,
+          "y": 2.279
+        },
+        "click_number": 5,
+        "time_since_last_click": 1.9097953215621397,
+        "time_since_start": 6.154832,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:15:06.298715",
+        "event_type": "type_assignment",
+        "polygon_id": 9,
+        "annotation_type": "shape",
+        "shape_type": "INTERFACE_ADJUSTMENT_AREA",
+        "time_since_polygon_completion": 4.690890789139323,
+        "total_points": 5,
+        "total_drawing_time": 10.845723
+      },
+      {
+        "timestamp": "2024-03-21T10:15:19.759600",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 13.460885347131251
+      },
+      {
+        "timestamp": "2024-03-21T10:15:19.759600",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:15:19.759600",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.5341,
+          "y": 4.1139
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:15:21.906725",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.6213,
+          "y": 4.0385
+        },
+        "click_number": 2,
+        "time_since_last_click": 2.1471252366092606,
+        "time_since_start": 2.147125,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:15:24.039173",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 1.2419,
+          "y": 4.6786
+        },
+        "click_number": 3,
+        "time_since_last_click": 2.1324479836250063,
+        "time_since_start": 4.279573,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:15:28.969550",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 1.1721,
+          "y": 4.7462
+        },
+        "click_number": 4,
+        "time_since_last_click": 4.930376811328138,
+        "time_since_start": 9.20995,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:15:30.527205",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.5341,
+          "y": 4.1139
+        },
+        "click_number": 5,
+        "time_since_last_click": 1.5576549800924142,
+        "time_since_start": 10.767605,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:15:34.757850",
+        "event_type": "type_assignment",
+        "polygon_id": 10,
+        "annotation_type": "shape",
+        "shape_type": "INTERFACE_ADJUSTMENT_AREA",
+        "time_since_polygon_completion": 4.230644510631972,
+        "total_points": 5,
+        "total_drawing_time": 14.99825
+      },
+      {
+        "timestamp": "2024-03-21T10:15:55.771204",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 21.013354395731294
+      },
+      {
+        "timestamp": "2024-03-21T10:15:55.771204",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:15:55.771204",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 2.1632,
+          "y": 5.5376
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:15:57.545586",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 3.0903,
+          "y": 6.5129
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.7743821518840543,
+        "time_since_start": 1.774382,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:16:01.797198",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 3.0048,
+          "y": 6.5953
+        },
+        "click_number": 3,
+        "time_since_last_click": 4.251611595011908,
+        "time_since_start": 6.025994,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:16:05.127788",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 2.063,
+          "y": 5.6344
+        },
+        "click_number": 4,
+        "time_since_last_click": 3.330590072126612,
+        "time_since_start": 9.356584,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:16:06.504268",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 2.1632,
+          "y": 5.5376
+        },
+        "click_number": 5,
+        "time_since_last_click": 1.37648033008874,
+        "time_since_start": 10.733064,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:16:10.901897",
+        "event_type": "type_assignment",
+        "polygon_id": 11,
+        "annotation_type": "shape",
+        "shape_type": "INTERFACE_ADJUSTMENT_AREA",
+        "time_since_polygon_completion": 4.397628630457524,
+        "total_points": 5,
+        "total_drawing_time": 15.130693
+      },
+      {
+        "timestamp": "2024-03-21T10:16:22.313666",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 11.41176885130805
+      },
+      {
+        "timestamp": "2024-03-21T10:16:22.313666",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:16:22.313666",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 4.2942,
+          "y": 10.8078
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:16:23.971058",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 4.4242,
+          "y": 10.809
+        },
+        "click_number": 2,
+        "time_since_last_click": 1.6573921974562005,
+        "time_since_start": 1.657392,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:16:26.209248",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 4.4152,
+          "y": 11.8196
+        },
+        "click_number": 3,
+        "time_since_last_click": 2.23818968009248,
+        "time_since_start": 3.895582,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:16:28.084325",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 4.278,
+          "y": 11.8174
+        },
+        "click_number": 4,
+        "time_since_last_click": 1.875077286178315,
+        "time_since_start": 5.770659,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:16:31.214876",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 4.2942,
+          "y": 10.8078
+        },
+        "click_number": 5,
+        "time_since_last_click": 3.1305510921540387,
+        "time_since_start": 8.90121,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:16:34.660388",
+        "event_type": "type_assignment",
+        "polygon_id": 12,
+        "annotation_type": "shape",
+        "shape_type": "INTERFACE_ADJUSTMENT_AREA",
+        "time_since_polygon_completion": 3.445512325181407,
+        "total_points": 5,
+        "total_drawing_time": 12.346722
+      },
+      {
+        "timestamp": "2024-03-21T10:16:47.426281",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 12.765893237045368
+      },
+      {
+        "timestamp": "2024-03-21T10:16:47.426281",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:16:47.426281",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 4.2779,
+          "y": 13.1327
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:16:49.481557",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 4.3941,
+          "y": 13.1335
+        },
+        "click_number": 2,
+        "time_since_last_click": 2.055275865631491,
+        "time_since_start": 2.055276,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:16:51.372459",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 4.4116,
+          "y": 14.5406
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.8909021494928102,
+        "time_since_start": 3.946178,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:16:53.105552",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 4.2965,
+          "y": 14.5404
+        },
+        "click_number": 4,
+        "time_since_last_click": 1.7330926637262618,
+        "time_since_start": 5.679271,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:16:53.916966",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 4.2779,
+          "y": 13.1327
+        },
+        "click_number": 5,
+        "time_since_last_click": 0.8114137719023339,
+        "time_since_start": 6.490685,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:16:59.779562",
+        "event_type": "type_assignment",
+        "polygon_id": 13,
+        "annotation_type": "shape",
+        "shape_type": "INTERFACE_ADJUSTMENT_AREA",
+        "time_since_polygon_completion": 5.862595845841392,
+        "total_points": 5,
+        "total_drawing_time": 12.353281
+      },
+      {
+        "timestamp": "2024-03-21T10:17:18.898273",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 19.118710736984227
+      },
+      {
+        "timestamp": "2024-03-21T10:17:18.898273",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:17:18.898273",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.9815,
+          "y": 5.6508
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:17:23.711434",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 1.1593,
+          "y": 5.8351
+        },
+        "click_number": 2,
+        "time_since_last_click": 4.813161172235903,
+        "time_since_start": 4.813161,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:17:25.515230",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 1.7167,
+          "y": 5.2919
+        },
+        "click_number": 3,
+        "time_since_last_click": 1.8037957945618577,
+        "time_since_start": 6.616957,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:17:28.653222",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 1.5314,
+          "y": 5.1036
+        },
+        "click_number": 4,
+        "time_since_last_click": 3.1379922163324667,
+        "time_since_start": 9.754949,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:17:31.034729",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": 0.9815,
+          "y": 5.6508
+        },
+        "click_number": 5,
+        "time_since_last_click": 2.381506744190885,
+        "time_since_start": 12.136456,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:17:36.944837",
+        "event_type": "type_assignment",
+        "polygon_id": 14,
+        "annotation_type": "shape",
+        "shape_type": "PIERS_COLUMNS_PERIMETER",
+        "time_since_polygon_completion": 5.910107942591281,
+        "total_points": 5,
+        "total_drawing_time": 18.046564
+      },
+      {
+        "timestamp": "2024-03-21T10:17:46.279667",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 9.334829653218037
+      },
+      {
+        "timestamp": "2024-03-21T10:17:46.279667",
+        "event_type": "tool_switch",
+        "tool": "shape_outline",
+        "time_since_last_event": 0
+      },
+      {
+        "timestamp": "2024-03-21T10:17:46.279667",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -5.0362,
+          "y": 8.5515
+        },
+        "click_number": 1,
+        "time_since_last_click": 0,
+        "time_since_start": 0.0,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:17:50.215773",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -5.0379,
+          "y": 8.8412
+        },
+        "click_number": 2,
+        "time_since_last_click": 3.93610591239185,
+        "time_since_start": 3.936106,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:17:51.188849",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -4.2165,
+          "y": 8.8484
+        },
+        "click_number": 3,
+        "time_since_last_click": 0.9730761061481693,
+        "time_since_start": 4.909182,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:17:52.004772",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -4.22,
+          "y": 8.554
+        },
+        "click_number": 4,
+        "time_since_last_click": 0.8159233504544773,
+        "time_since_start": 5.725105,
+        "is_closing_click": false
+      },
+      {
+        "timestamp": "2024-03-21T10:17:54.266665",
+        "event_type": "polygon_click",
+        "annotation_type": "shape",
+        "point": {
+          "x": -5.0362,
+          "y": 8.5515
+        },
+        "click_number": 5,
+        "time_since_last_click": 2.2618930593439144,
+        "time_since_start": 7.986998,
+        "is_closing_click": true
+      },
+      {
+        "timestamp": "2024-03-21T10:17:57.471174",
+        "event_type": "type_assignment",
+        "polygon_id": 15,
+        "annotation_type": "shape",
+        "shape_type": "DUCTING_EXCLUSIVE_SERVICES",
+        "time_since_polygon_completion": 3.204508600663412,
+        "total_points": 5,
+        "total_drawing_time": 11.191507
+      },
+      {
+        "timestamp": "2024-03-21T10:18:05.690557",
+        "event_type": "break",
+        "break_type": "between_polygons",
+        "duration": 8.21938264875714
+      }
+    ]
+  }
+}
