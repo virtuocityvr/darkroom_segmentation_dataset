@@ -129,56 +129,56 @@ if __name__ == '__main__':
                                             num_uploaded_scans += 1
                                             uploaded_scan = scan  # Store the scan details
                                 
-                                # Only process if there is exactly one uploaded scan
-                                # if num_uploaded_scans == 1:
-                                #     # Transform the media reference
-                                #     new_media_ref = transform_media_reference(uploaded_scan['mediaReference'], floorplan['section'])
+                                Only process if there is exactly one uploaded scan
+                                if num_uploaded_scans == 1:
+                                    # Transform the media reference
+                                    new_media_ref = transform_media_reference(uploaded_scan['mediaReference'], floorplan['section'])
                                     
-                                #     # Check if the transformed file exists in S3
-                                #     exists = check_s3_file_exists(new_media_ref)
-                                #     if exists:
-                                #         found_count += 1
-                                #         dimensions_url = f"https://dimensions.hellopupil.com/processedCaptures/{processed_capture_id}/sections/{floorplan['section']}/floorplans/{final_floorplan_id}/annotation"
+                                    # Check if the transformed file exists in S3
+                                    exists = check_s3_file_exists(new_media_ref)
+                                    if exists:
+                                        found_count += 1
+                                        dimensions_url = f"https://dimensions.hellopupil.com/processedCaptures/{processed_capture_id}/sections/{floorplan['section']}/floorplans/{final_floorplan_id}/annotation"
                                         
-                                #         # Get file size
-                                #         # file_size = get_file_size(new_media_ref)
-                                #         # total_size_bytes += file_size
+                                        # Get file size
+                                        # file_size = get_file_size(new_media_ref)
+                                        # total_size_bytes += file_size
                                         
-                                #         print(f"\nFound matching file for capture ID: {processed_capture_id}")
-                                #         print(f"Section: {floorplan['section']}")
-                                #         print(f"Floorplan ID: {final_floorplan_id}")
-                                #         print(f"Dimensions URL: {dimensions_url}")
-                                #         print(f"Transformed Media Reference: {new_media_ref}")
-                                #         # print(f"File size: {format_size(file_size)}")
+                                        print(f"\nFound matching file for capture ID: {processed_capture_id}")
+                                        print(f"Section: {floorplan['section']}")
+                                        print(f"Floorplan ID: {final_floorplan_id}")
+                                        print(f"Dimensions URL: {dimensions_url}")
+                                        print(f"Transformed Media Reference: {new_media_ref}")
+                                        # print(f"File size: {format_size(file_size)}")
 
-                                #         # Add download command to the list
-                                #         local_path = f"downloaded_ply_files/capture_{processed_capture_id}_section_{floorplan['section']}.ply"
-                                #         s3_path = f"s3://{new_media_ref['bucket']}/{new_media_ref['path']}"
-                                #         download_commands.append(f"echo 'Downloading {s3_path}...'")
-                                #         download_commands.append(f"aws s3 cp '{s3_path}' '{local_path}'")
-                                #         download_commands.append("")
+                                        # Add download command to the list
+                                        local_path = f"downloaded_ply_files/capture_{processed_capture_id}_section_{floorplan['section']}.ply"
+                                        s3_path = f"s3://{new_media_ref['bucket']}/{new_media_ref['path']}"
+                                        download_commands.append(f"echo 'Downloading {s3_path}...'")
+                                        download_commands.append(f"aws s3 cp '{s3_path}' '{local_path}'")
+                                        download_commands.append("")
 
-                                #         # Save section data to JSON file
-                                #         section_data = {
-                                #             'capture_id': processed_capture_id,
-                                #             'section_id': floorplan['section'],
-                                #             'floorplan_id': final_floorplan_id,
-                                #             'dimensions_url': dimensions_url,
-                                #             'transformed_media_reference': new_media_ref,
-                                #             'section_details': section,
-                                #             'file_size_bytes': file_size,
-                                #             'file_size_human': format_size(file_size),
-                                #             'local_path': local_path
-                                #         }
+                                        # Save section data to JSON file
+                                        section_data = {
+                                            'capture_id': processed_capture_id,
+                                            'section_id': floorplan['section'],
+                                            'floorplan_id': final_floorplan_id,
+                                            'dimensions_url': dimensions_url,
+                                            'transformed_media_reference': new_media_ref,
+                                            'section_details': section,
+                                            'file_size_bytes': file_size,
+                                            'file_size_human': format_size(file_size),
+                                            'local_path': local_path
+                                        }
                                         
-                                #         # Create sections directory if it doesn't exist
-                                #         os.makedirs('sections', exist_ok=True)
+                                        # Create sections directory if it doesn't exist
+                                        os.makedirs('sections', exist_ok=True)
                                         
-                                #         # Save to JSON file
-                                #         output_file = f"sections/capture_{processed_capture_id}_section_{floorplan['section']}.json"
-                                #         with open(output_file, 'w') as f:
-                                #             json.dump(section_data, f, indent=2)
-                                #         print(f"Section data saved to: {output_file}")
+                                        # Save to JSON file
+                                        output_file = f"sections/capture_{processed_capture_id}_section_{floorplan['section']}.json"
+                                        with open(output_file, 'w') as f:
+                                            json.dump(section_data, f, indent=2)
+                                        print(f"Section data saved to: {output_file}")
 
         except Exception as e:
             print(f"Error processing capture ID {processed_capture_id}: {e}")
